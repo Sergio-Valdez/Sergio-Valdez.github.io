@@ -6,9 +6,9 @@ I'm an eager and fresh out of high school student, Currently attending Deep dive
     
  ## Current projects
  
- * Hello World: Java console application
+ * [Hello World: Java console application](https://github.com/Sergio-Valdez/hello-world-java)
       
- * Hello World: Android app
+ * [Hello World: Android app](https://github.com/Sergio-Valdez/hello-world-android)
 
 
  ## Links
