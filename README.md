@@ -13,4 +13,4 @@ I'm an eager and fresh out of high school student, Currently attending Deep dive
 
  ## Links
  
-  * [LinkedIn](www.linkedin.com/in/sergio-valdez-8601b3213)
+  * [LinkedIn](https://www.linkedin.com/in/sergio-valdez-8601b3213/)
